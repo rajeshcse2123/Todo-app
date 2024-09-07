@@ -1,2 +1,2 @@
 # Todo-app
-HTML, CSS , JAVASCRIPT, REACT
+Using Html, Css, Javascript and React
